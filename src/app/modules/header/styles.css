@@ -1,0 +1,33 @@
+
+#default.headerContainer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 18px 30px;
+	border-bottom: 1px solid #f6f6f6;
+}
+#default .titleLabel {
+	color: #252525;
+	font-size: 20px;
+	position: relative;
+	top: 0;
+	text-decoration: none;
+	transition: all 0.3s;
+}
+#default .titleLabel:hover {
+	top: -5px;
+}
+#default .navWrapper {
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+#default .navItem {
+	list-style-type: none;
+	margin-left: 20px
+}
+#default .navLink {
+	color: #252525;
+	font-size: 14px;
+	text-decoration: none
+}

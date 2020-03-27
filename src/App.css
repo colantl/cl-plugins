@@ -1,0 +1,20 @@
+.desc {
+    padding: 30px;
+}
+
+.desc h1 {
+    color: #252525;
+    margin-bottom: 0;
+    margin-top: 100px;
+}
+
+.desc .dash {
+    border-bottom: 5px solid lightgreen;
+    width: 70px;
+    margin-bottom: 40px;
+}
+
+.desc p {
+    font-style: italic;
+    color: #666;
+}
